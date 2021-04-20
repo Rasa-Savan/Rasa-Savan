@@ -1,4 +1,4 @@
-<img src="https://www.savan-npr.com/images/Savan.jpg">
+<img src="https://www.savan-npr.com/images/Savan.jpg" style="width:100px;height:130px;">
 
 <h2> Hey there! I'm Phonesavan (Savan).</h2>
 
